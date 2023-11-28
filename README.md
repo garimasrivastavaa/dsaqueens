@@ -43,4 +43,9 @@ M4L2Q1 - Query Kth Smallest Trimmed Number
 
 M4L2Q2 - Egyptian Fraction
 
+Contests - 
+
+Maximum number of subsequences in a string 
+
+
 
