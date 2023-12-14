@@ -13,3 +13,11 @@
 6. isBalanced
 
 7. jobSequencing
+
+8. maximumSubsequenceCount
+
+9. lastRemaining
+
+10. maxChunksTobeSorted
+
+11. Number of Operations to make network connected
