@@ -69,6 +69,12 @@ s
 
 11. Number of Operations to make network connected
 
+12. Divisible sum pairs
+
+13. EliminationGame
+
+14. Compare the Triplets
+
 
 
 
