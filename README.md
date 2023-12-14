@@ -52,7 +52,7 @@ Contests -
 2. Bipartite Graph
 
 3. Goat Latin
-
+s
 4. Custom Stack
 
 5. MinStepsToReachTargetSweetness
@@ -61,7 +61,14 @@ Contests -
 
 7. jobSequencing
 
-Maximum number of subsequences in a string 
+8. maximumSubsequenceCount
+
+9. lastRemaining
+
+10. maxChunksTobeSorted
+
+11. Number of Operations to make network connected
+
 
 
 
