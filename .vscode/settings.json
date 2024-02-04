@@ -60,5 +60,6 @@
     "ostream": "cpp",
     "string": "cpp",
     "iostream": "cpp"
-  }
+  },
+  "cmake.configureOnOpen": false
 }
